@@ -7,7 +7,8 @@ For example :
 
 Using the Caesar Cipher with a shift of 3:
 
--Plaintext: "hello"
--Encrypted text: "khoor"
+
+Plaintext: "hello" / Encrypted text: "khoor"
+
 
 Each letter in the plaintext is shifted three positions to the right in the alphabet to generate the ciphertext.
